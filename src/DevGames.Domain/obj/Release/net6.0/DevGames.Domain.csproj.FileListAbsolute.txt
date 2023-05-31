@@ -1,0 +1,15 @@
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\bin\Release\net6.0\DevGames.Domain.deps.json
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\bin\Release\net6.0\DevGames.Domain.dll
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\bin\Release\net6.0\DevGames.Domain.pdb
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\bin\Release\net6.0\DevGames.Core.dll
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\bin\Release\net6.0\DevGames.Core.pdb
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\obj\Release\net6.0\DevGames.Domain.csproj.AssemblyReference.cache
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\obj\Release\net6.0\DevGames.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\obj\Release\net6.0\DevGames.Domain.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\obj\Release\net6.0\DevGames.Domain.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\obj\Release\net6.0\DevGames.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\obj\Release\net6.0\DevGames.Domain.csproj.CopyComplete
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\obj\Release\net6.0\DevGames.Domain.dll
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\obj\Release\net6.0\refint\DevGames.Domain.dll
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\obj\Release\net6.0\DevGames.Domain.pdb
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Domain\obj\Release\net6.0\ref\DevGames.Domain.dll

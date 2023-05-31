@@ -1,0 +1,12 @@
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\bin\Release\net6.0\DevGames.Core.deps.json
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\bin\Release\net6.0\DevGames.Core.dll
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\bin\Release\net6.0\DevGames.Core.pdb
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\obj\Release\net6.0\DevGames.Core.csproj.AssemblyReference.cache
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\obj\Release\net6.0\DevGames.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\obj\Release\net6.0\DevGames.Core.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\obj\Release\net6.0\DevGames.Core.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\obj\Release\net6.0\DevGames.Core.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\obj\Release\net6.0\DevGames.Core.dll
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\obj\Release\net6.0\refint\DevGames.Core.dll
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\obj\Release\net6.0\DevGames.Core.pdb
+C:\Users\Desenvolvedor\Downloads\DevGames\DevGames\src\DevGames.Core\obj\Release\net6.0\ref\DevGames.Core.dll

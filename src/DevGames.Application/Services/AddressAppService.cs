@@ -1,0 +1,98 @@
+﻿using AutoMapper;
+using DevGames.Application.Interfaces;
+using DevGames.Application.ViewModel;
+using DevGames.Domain.Entities;
+using DevGames.Domain.Interfaces;
+using DevGames.Domain.Shared.Transaction;
+using MediatR;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DevGames.Application.Services
+{
+    public class AddressAppService : BaseService, IAddressAppService
+    {
+        protected readonly IAddressRepository _repository;
+        protected readonly IMapper _mapper;
+
+        public AddressAppService(IAddressRepository repository,
+            IMapper mapper,
+            IUnitOfWork unitOfWork,
+            IMediator bus)
+            : base(unitOfWork, bus)
+        {
+            _repository = repository;
+            _mapper = mapper;
+        }
+
+        public async Task<AddressViewModel> AddAsync(AddressViewModel viewModel)
+        {
+            Address domain = _mapper.Map<Address>(viewModel);
+            domain = await _repository.AddAsync(domain);
+            Commit();
+
+            AddressViewModel viewModelReturn = _mapper.Map<AddressViewModel>(domain);
+            return viewModelReturn;
+        }
+
+        public AddressViewModel Update(AddressViewModel viewModel)
+        {
+            var domain = _mapper.Map<Address>(viewModel);
+            domain = _repository.Update(domain);
+            Commit();
+            AddressViewModel viewModelReturn = _mapper.Map<AddressViewModel>(domain);
+            return viewModelReturn;
+        }
+
+        public void Remove(Guid id)
+        {
+            _repository.Remove(id);
+            Commit();
+        }
+
+        public void Remove(Expression<Func<Address, bool>> expression)
+        {
+            _repository.Remove(expression);
+            Commit();
+        }
+
+        public AddressViewModel GetById(Guid id)
+        {
+            var domain = _repository.GetById(id);
+            var viewModel = _mapper.Map<AddressViewModel>(domain);
+            return viewModel;
+        }
+
+        public async Task<AddressViewModel> GetByIdAsync(Guid id)
+        {
+            var domain = await _repository.GetByIdAsync(id);
+            var viewModel = _mapper.Map<AddressViewModel>(domain);
+            return viewModel;
+        }
+
+        public IEnumerable<AddressViewModel> Search(Expression<Func<Address, bool>> predicate)
+        {
+            var domain = _repository.Search(predicate);
+            var viewModels = _mapper.Map<IEnumerable<AddressViewModel>>(domain);
+            return viewModels;
+        }
+
+        public async Task<IEnumerable<AddressViewModel>> SearchAsync(Expression<Func<Address, bool>> predicate)
+        {
+            var domain = await _repository.SearchAsync(predicate);
+            var viewModels = _mapper.Map<IEnumerable<AddressViewModel>>(domain);
+            return viewModels;
+        }
+
+        public IEnumerable<AddressViewModel> Search(Expression<Func<Address, bool>> predicate, int pageNumber, int pageSize)
+        {
+            var domain = _repository.Search(predicate, pageNumber, pageSize);
+            var viewModels = _mapper.Map<IEnumerable<AddressViewModel>>(domain);
+            return viewModels;
+        }
+    }
+}
