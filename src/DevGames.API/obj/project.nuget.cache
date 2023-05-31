@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xbxB5tKHsKgnL3p6yF7He5zdDQsHd9fEdE54/697jzY6RajR8K0JkikWD/KMXWI//pRZRLg8POY9LIU6g/ZtCg==",
+  "dgSpecHash": "Yqr1NmPRssaeCJArxZUJidlaCevbIiOVv2nxNu+cYPMccqX/f3n9RdvjEMHLgUbOUxtZu0fDYUTnTXQaXnEJpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.API\\DevGames.API.csproj",
+  "projectFilePath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.API\\DevGames.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

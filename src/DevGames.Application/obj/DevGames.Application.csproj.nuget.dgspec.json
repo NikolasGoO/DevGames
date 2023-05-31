@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Application\\DevGames.Application.csproj": {}
+    "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Application\\DevGames.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Application\\DevGames.Application.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Application\\DevGames.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Application\\DevGames.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Application\\DevGames.Application.csproj",
         "projectName": "DevGames.Application",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Application\\DevGames.Application.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Application\\DevGames.Application.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Application\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj"
               },
-              "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj"
               },
-              "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain\\DevGames.Domain.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain\\DevGames.Domain.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain\\DevGames.Domain.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain\\DevGames.Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj",
         "projectName": "DevGames.Core",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Core\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj",
         "projectName": "DevGames.Domain.Shared",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -189,14 +189,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain\\DevGames.Domain.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain\\DevGames.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain\\DevGames.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain\\DevGames.Domain.csproj",
         "projectName": "DevGames.Domain",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain\\DevGames.Domain.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain\\DevGames.Domain.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -213,8 +213,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Core\\DevGames.Core.csproj"
               }
             }
           }

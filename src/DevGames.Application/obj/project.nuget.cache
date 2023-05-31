@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Alif3OGj8mtZgPtYNhE9H+1S/wZGatfaSFqqEmKBQz8GJ77FWbdiJe2rg0AkiwQje36FvqSD4U6tbYo0ZkLRYw==",
+  "dgSpecHash": "EmhHoJSf9Ei47t6/LzAWY3GnoR+iH7mdg/A386PjwJfVkNxVBE/pxhzUxIWU8Ywd4kXjWIQYWDV1ASF+Xx8pmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Application\\DevGames.Application.csproj",
+  "projectFilePath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Application\\DevGames.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj",
       "projectName": "DevGames.Domain.Shared",
-      "projectPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj",
+      "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj",
       "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain.Shared\\obj\\",
+      "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config",

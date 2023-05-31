@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rl7TxGB6T/nAVtvhLPrmEi6hh6Mv7eMU2G/l4/3Iq2TFYGEDCuRUbwxskTrVsayn1XbLNXFTm8i1f4Tsy6ZLTA==",
+  "dgSpecHash": "mxC+2dVTNPu+0PqjVzWj64bqYMozSHU808L/xf3jVZ8Q3ZyaBSnyA5AGcAjxY0ykPbs+3dAos9SfUPTRiRWuBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Infra.Data\\DevGames.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Infra.Data\\DevGames.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

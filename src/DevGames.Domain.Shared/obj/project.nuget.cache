@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wl6rbiPnBSqc5PkiKUmKkaaEgviGFgOYlX0o/EGpaXS1pl50rGQGjej8Lz+NtTdk/PJKweggh5wkCvYZoZ5VZA==",
+  "dgSpecHash": "CxIlO8paMK5XmPIgCqNSExPwtyeggFP16ldtF8/yoKItPTrS4ryT7JoGTCYSgQ05/Ap/xaSN/7FNj6kjYmJDjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Domain.Shared\\DevGames.Domain.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

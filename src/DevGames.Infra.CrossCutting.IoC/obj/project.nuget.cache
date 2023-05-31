@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EkWkKQRkkz+lpOQAQ7NF8RRA2mxv0hh+6AxYNFmFGRPh6hdJawUJnUIktG76K6i8ZYoHIpOZft2kux9KgkWkvw==",
+  "dgSpecHash": "nrRk9dtMBWC1WuV/vvZIQGNjR560lty5LwvN9lFDk4tftAS6BqEni+e7TaF4cEZZEtbhvBYs7so6Kv+tuDbWfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenvolvedor\\Downloads\\DevGames\\DevGames\\src\\DevGames.Infra.CrossCutting.IoC\\DevGames.Infra.CrossCutting.IoC.csproj",
+  "projectFilePath": "C:\\Users\\Desenvolvedor\\Documents\\GitHub\\DevGames\\src\\DevGames.Infra.CrossCutting.IoC\\DevGames.Infra.CrossCutting.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
